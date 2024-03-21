@@ -1,7 +1,19 @@
-# Vue 3 + Vite
+# Ship Statistics Dashboard
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This project is a dashboard application developed for an interview. It displays four different graphs related to ship statistics.
 
-## Recommended IDE Setup
 
-- [VS Code](https://code.visualstudio.com/) + [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (previously Volar) and disable Vetur
+### Prerequisites
+
+You need to have Node.js and npm installed on your machine. If you don't have Node.js installed, you can download it from [here](https://nodejs.org/en/download/).
+
+### Installation
+
+Clone the repository to your local machine.
+
+```bash
+git clone https://github.com/ilias-stefanis/Sample-Dashboard-App
+cd Sample-Dashboard-App
+npm install
+npm run dev
+```
